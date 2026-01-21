@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mohammad Shazil Ismail | Social Media Manager</title>
+<meta name="description" content="Mohammad Shazil Ismail – Social Media Marketing Manager, Content Creator & Vedio Editor based in Dubai.">
+<link rel="stylesheet" href="css/style.css">
+<script defer src="js/script.js"></script>
+</head>
+
+<body>
+
+<header>
+  <div class="logo">Shazil.</div>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="services.html">Services</a>
+    <a href="projects.html">Projects</a>
+    <a href="resume.html">Resume</a>
+    <a href="blog.html">Blog</a>
+    <a href="contact.html" class="btn">Contact</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h1>Mohammad Shazil Ismail</h1>
+  <h2>Social Media Manager • Content Creator • Vedio Editor</h2>
+  <p>Sharing conscious content, creative strategy, and Vedic wisdom for the modern world.</p>
+  <a href="projects.html" class="btn">View My Work</a>
+</section>
+
+<section class="grid">
+  <div class="card">📈 Strategy & Brand Growth</div>
+  <div class="card">🎬 Reels & Short-Form Video</div>
+  <div class="card">🧘 Vedic & Conscious Editing</div>
+</section>
+
+<footer>
+  <p>© 2026 Mohammad Shazil Ismail • Dubai, UAE</p>
+</footer>
+
+</body>
+</html>
